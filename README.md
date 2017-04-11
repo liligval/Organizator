@@ -1,2 +1,2 @@
 # Organizator
-Small project to work with the MEAN stack
+Small project to play around with the MEAN stack
